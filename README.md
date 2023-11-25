@@ -5,4 +5,4 @@ github.com/srinivas1987devops
 github.com/ravdy
 github.com/yankils
 github.com/anujdevopslearn
-github.com/simplilear-github
+github.com/simplilearn-github
