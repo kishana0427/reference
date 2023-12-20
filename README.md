@@ -7,3 +7,4 @@ github.com/yankils
 github.com/anujdevopslearn
 github.com/simplilearn-github
 https://github.com/rchidana
+https://humalect.com/blog/kubectl-config-set-context
