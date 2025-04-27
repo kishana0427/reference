@@ -9,3 +9,4 @@ github.com/simplilearn-github
 https://github.com/rchidana
 https://humalect.com/blog/kubectl-config-set-context
 https://github.com/kunchalavikram1427
+https://github.com/jaiswaladi246/
