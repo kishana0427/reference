@@ -10,3 +10,5 @@ https://github.com/rchidana
 https://humalect.com/blog/kubectl-config-set-context
 https://github.com/kunchalavikram1427
 https://github.com/jaiswaladi246/
+https://projects.prodevopsguytech.com/blog/DevOps-Project-38
+https://github.com/NotHarshhaa
